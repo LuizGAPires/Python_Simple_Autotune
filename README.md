@@ -2,7 +2,7 @@
 
 A minimal Python implementation of a real-time-ish **autotune** effect using pitch detection and pitch correction. This project was created to explore the fundamentals of pitch shifting, tuning quantization, and digital audio signal processing using Python and scientific libraries.
 
-> 🎓 **Developed as a course project for Voice Processing**  
+> 🎓 **Developed as a course project for Voice Processing** for the first semester of 2024.
 > Built to demonstrate core techniques in pitch tracking, frequency-domain transformations, and basic autotuning.
 
 ---
